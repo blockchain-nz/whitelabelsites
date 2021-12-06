@@ -3,8 +3,8 @@ https://gitcoin.co/issue/mintkudos/mintgate-widget/18/100026936
   
 # Submission requirements:
 ## 1, Create a new DAO using the Aragon Client.
-The DAO: taichi.aragonid.eth has been created using Aragon client in Polygon chain.  
-The corresponding token is TaiChi/TCC : https://polygonscan.com/token/0x4d9127ff9edafeec37a80539338d23051c3f94bc  
+The DAO: **taichi.aragonid.eth** has been created using Aragon client in Polygon chain.  
+The corresponding token is **TaiChi/TCC** : https://polygonscan.com/token/0x4d9127ff9edafeec37a80539338d23051c3f94bc  
 
 ## 2, After the creation of the DAO, create an NFT storefront using the no-code MintGate white label feature.
 The storefront has been created using no-code MintGate white label feature. https://taichi.blockchain.nz/  
